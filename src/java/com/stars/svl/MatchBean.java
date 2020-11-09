@@ -21,6 +21,7 @@ public class MatchBean implements Serializable {
      * Creates a new instance of MatchBean
      */
     public MatchBean() {
+//        test
     }
     
 }
